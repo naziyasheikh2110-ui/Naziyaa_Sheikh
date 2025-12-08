@@ -15,12 +15,6 @@ Projects
 
 Pure HTML & CSS — no JavaScript, no libraries
 
-📂 Project Structure
-
- /portfolio
- │── index.html
- └── style.css
-
 🚀 How to Run
 
 Just open index.html in any browser.
